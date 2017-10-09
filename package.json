@@ -1,0 +1,27 @@
+{
+  "name": "azurebottest",
+  "version": "1.0.0",
+  "description": "Test bot for azure git deployment",
+  "main": "botstart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danngoodman/AzureBotTest.git"
+  },
+  "keywords": [
+    "lol"
+  ],
+  "author": "Dan Goodman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danngoodman/AzureBotTest/issues"
+  },
+  "homepage": "https://github.com/danngoodman/AzureBotTest#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "dotenv": "^4.0.0",
+    "restify": "^6.0.1"
+  }
+}
